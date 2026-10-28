@@ -7,9 +7,16 @@
     "name": "Relaticle",
     "email": "hello@relaticle.com"
   },
-  "homepage": "https://relaticle.com/developers/mcp",
-  "repository": "https://github.com/relaticle/agent-plugins",
   "license": "MIT",
-  "keywords": ["crm", "sales", "mcp", "companies", "people", "opportunities", "tasks", "notes"],
+  "keywords": [
+    "crm",
+    "sales",
+    "mcp",
+    "companies",
+    "people",
+    "opportunities",
+    "tasks",
+    "notes"
+  ],
   "logo": "assets/logo.png"
 }

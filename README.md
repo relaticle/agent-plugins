@@ -2,7 +2,7 @@
 
 Connect Cursor and Gemini CLI to [Relaticle](https://relaticle.com), the open-source CRM your AI agents can read and update: companies, people, opportunities, tasks, notes and custom fields.
 
-Both plugins point at the hosted MCP server, `https://mcp.relaticle.com`. Your client signs you in with OAuth the first time it connects, and the connection is scoped to the workspace you pick.
+Both plugins point at the hosted MCP server, `https://mcp.relaticle.com`, which uses OAuth sign-in. Each connection is scoped to one Relaticle workspace.
 
 ## Cursor
 
@@ -23,8 +23,6 @@ Install Relaticle from the Cursor Marketplace, or add this to `.cursor/mcp.json`
 ```bash
 gemini extensions install https://github.com/relaticle/agent-plugins
 ```
-
-Then run `/mcp auth relaticle` to sign in.
 
 ## Self-hosted Relaticle
 
