@@ -1,0 +1,15 @@
+{
+  "name": "relaticle",
+  "description": "Relaticle plugins for Claude: connect Claude to your Relaticle CRM.",
+  "owner": {
+    "name": "Relaticle",
+    "email": "hello@relaticle.com"
+  },
+  "plugins": [
+    {
+      "name": "relaticle",
+      "source": "./",
+      "description": "Open-source CRM your AI agents can read and update: companies, people, opportunities, tasks, notes and custom fields."
+    }
+  ]
+}

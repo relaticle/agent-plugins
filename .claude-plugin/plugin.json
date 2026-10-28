@@ -1,0 +1,24 @@
+{
+  "name": "relaticle",
+  "displayName": "Relaticle",
+  "version": "1.0.0",
+  "description": "Open-source CRM your AI agents can read and update: companies, people, opportunities, tasks, notes and custom fields.",
+  "author": {
+    "name": "Relaticle",
+    "email": "hello@relaticle.com",
+    "url": "https://relaticle.com"
+  },
+  "homepage": "https://relaticle.com/developers/mcp",
+  "repository": "https://github.com/relaticle/agent-plugins",
+  "license": "MIT",
+  "keywords": [
+    "crm",
+    "sales",
+    "companies",
+    "people",
+    "opportunities",
+    "tasks",
+    "notes"
+  ],
+  "privacyPolicyUrl": "https://relaticle.com/privacy-policy"
+}

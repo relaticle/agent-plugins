@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "relaticle": {
+      "type": "http",
+      "url": "https://mcp.relaticle.com"
+    }
+  }
+}
