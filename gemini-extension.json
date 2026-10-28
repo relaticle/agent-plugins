@@ -1,0 +1,10 @@
+{
+  "name": "relaticle",
+  "version": "1.0.0",
+  "description": "Open-source CRM your AI agents can read and update: companies, people, opportunities, tasks, notes and custom fields.",
+  "mcpServers": {
+    "relaticle": {
+      "httpUrl": "https://mcp.relaticle.com"
+    }
+  }
+}
